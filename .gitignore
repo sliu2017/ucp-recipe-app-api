@@ -130,3 +130,6 @@ dmypy.json
 
 # vscode
 .vscode
+
+# macOS pest
+.DS_Store
